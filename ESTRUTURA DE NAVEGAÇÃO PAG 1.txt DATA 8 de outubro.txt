@@ -1,0 +1,16 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Página 1</title>
+</head>
+<body>
+    <h1>Esta é a Página 1</h1>
+
+    <a href="index.html">Voltar para o início</a>
+
+    <br><br>
+
+    <a href="pagina2.html">Ir para a Página 2</a>
+</body>
+</html>
